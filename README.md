@@ -17,8 +17,9 @@
   <a href="https://github.com/Hamdan2045"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
  <a href="https://www.linkedin.com/in/mohamed-hamdan-2b5116298/" target="_blank" rel="noopener">
   <img alt="LinkedIn"
-       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&format=png" />
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="width:160px; height:32px;" />
 </a>
+
 
 
 </p>
