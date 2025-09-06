@@ -1,70 +1,110 @@
-<!-- Mohamed Hamdan A — GitHub Profile README (Adaptive Dark/Light) -->
-
-<!-- Banner (adaptive) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=Mohamed%20Hamdan%20A&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Building%20at%20the%20intersection%20of%20Web%2C%20Data%20%26%20AI/ML&descAlignY=50&descAlign=50" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=230&section=header&text=Mohamed%20Hamdan%20A&fontSize=42&fontColor=0d1117&fontAlignY=32&desc=Building%20at%20the%20intersection%20of%20Web%2C%20Data%20%26%20AI/ML&descAlignY=50&descAlign=50" />
-    <img width="100%" alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=Mohamed%20Hamdan%20A&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Building%20at%20the%20intersection%20of%20Web%2C%20Data%20%26%20AI/ML&descAlignY=50&descAlign=50" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=240&section=header&text=Mohamed%20Hamdan%20A&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Web%20%E2%80%A2%20Data%20%E2%80%A2%20AI%2FML%20Automation&descAlignY=56&descAlign=50" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=240&section=header&text=Mohamed%20Hamdan%20A&fontSize=46&fontColor=0d1117&fontAlignY=34&desc=Web%20%E2%80%A2%20Data%20%E2%80%A2%20AI%2FML%20Automation&descAlignY=56&descAlign=50" />
+    <img width="100%" alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=240&section=header&text=Mohamed%20Hamdan%20A&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Web%20%E2%80%A2%20Data%20%E2%80%A2%20AI%2FML%20Automation&descAlignY=56&descAlign=50" />
   </picture>
 </p>
 
-<h2 align="center">👋 Hey there, welcome to my GitHub</h2>
+<h2 align="center" style="font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-weight: 800; letter-spacing: .2px;">
+  👋 Hey there, welcome to my GitHub
+</h2>
 
-<p align="center">
-  <i>A Computer Science Engineering student exploring the world of web, data, and AI/ML automation.</i>
+<p align="center" style="font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial;">
+  A Computer Science Engineering student exploring the world of <b>web</b>, <b>data</b>, and <b>AI/ML automation</b>.
 </p>
 
----
-
-### 🚀 About Me
-- 🎓 Pursuing **B.E. in Computer Science Engineering**  
-- 💡 Passionate about **full-stack development, AI/ML, and automation**  
-- 🛠️ I like **building projects** that turn ideas into practical, usable products  
-- 🌱 Currently exploring **AI-powered applications, cloud development, and automation**  
-- ⚡ I enjoy blending **tech + creativity** to make problem-solving fun and useful  
-
----
-
-### 🧰 Tech Stack
-
 <p align="center">
-  <!-- neutral/transparent-ish badges so both themes look good -->
-  <img src="https://img.shields.io/badge/HTML5-?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/CSS3-?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/JavaScript-?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/React-?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/Node.js-?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/Express-?style=for-the-badge&logo=express&logoColor=777777&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/MongoDB-?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/Oracle%20APEX-?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/Power%20BI-?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/Python-?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/C++-?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=00000000&color=00000000" />
-  <img src="https://img.shields.io/badge/Java-?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=00000000&color=00000000" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3200&pause=900&color=8AA0FF&center=true&vCenter=true&width=800&lines=I+like+turning+ideas+into+useful+products;Learning+by+building%2C+iterating%2C+refining;Clean+UX+%7C+Reliable+APIs+%7C+Actionable+Data" alt="typing intro"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-mohamedhamdan20.work%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
+  <a href="https://github.com/Hamdan2045"><img src="https://img.shields.io/badge/GitHub-Hamdan2045-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
+</p>
 
-### 🏗️ Projects
+<hr/>
 
-#### 🔹 Resumex — AI Resume Analyzer  
-- Scores resumes against job descriptions and gives **actionable feedback**  
-- Built with **React, Node.js, MongoDB, OpenAI API**  
-- Secure auth, PDF uploads, per-user reports  
-- **Live:** [resume-analyzer-red.vercel.app](https://resume-analyzer-red.vercel.app)
+<h3 style="font-family: ui-sans-serif, -apple-system, 'Segoe UI', Inter, Roboto; font-weight:800;">About Me</h3>
 
-#### 🔹 Cloud Compare — Oracle APEX App  
-- Compare top cloud providers by **features, pricing, and metrics**  
-- Built with **Oracle APEX + PL/SQL**, interactive dashboards
+<ul style="font-family: ui-sans-serif, -apple-system, 'Segoe UI', Inter, Roboto; line-height:1.6;">
+  <li>🎓 Pursuing <b>B.E. in Computer Science Engineering</b></li>
+  <li>💡 Passionate about <b>full-stack development</b>, <b>AI/ML</b>, and <b>automation</b></li>
+  <li>🛠️ I like <b>building projects</b> that turn ideas into practical, usable products</li>
+  <li>🌱 Currently exploring <b>AI-powered applications</b>, <b>cloud development</b>, and <b>automation workflows</b></li>
+</ul>
 
-#### 🔹 Personal Portfolio  
-- Responsive, mobile-first portfolio site built with **HTML, CSS, JS**  
-- Interactive UI, smooth scrolling, integrated contact form
+<hr/>
 
----
+<h3 style="font-family: ui-sans-serif, -apple-system, 'Segoe UI', Inter, Roboto; font-weight:800;">Tech Stack</h3>
 
-### 📊 GitHub Snapshot (adaptive)
+<table>
+<tr>
+<td align="center" width="80">HTML</td>
+<td align="center" width="80">CSS</td>
+<td align="center" width="80">JS</td>
+<td align="center" width="100">React</td>
+<td align="center" width="100">Node</td>
+<td align="center" width="110">Express</td>
+<td align="center" width="110">MongoDB</td>
+<td align="center" width="110">Oracle APEX</td>
+<td align="center" width="100">Power BI</td>
+<td align="center" width="100">Python</td>
+<td align="center" width="90">C++</td>
+<td align="center" width="90">Java</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="34"/></td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/></td>
+</tr>
+</table>
+
+<hr/>
+
+<h3 style="font-family: ui-sans-serif, -apple-system, 'Segoe UI', Inter, Roboto; font-weight:800;">Projects</h3>
+
+<div style="display:grid; gap:14px; font-family: ui-sans-serif, -apple-system, 'Segoe UI', Inter, Roboto;">
+  <div style="border:1px solid rgba(128,128,128,.25); border-radius:12px; padding:14px;">
+    <h4 style="margin:0 0 6px 0;">Resumex — AI Resume Analyzer</h4>
+    <p style="margin:0 0 8px 0;"><i>React • Node/Express • MongoDB • OpenAI API • Auth • Vercel + Render</i></p>
+    <ul>
+      <li>Scores resumes against job descriptions and gives <b>actionable feedback</b></li>
+      <li>Secure auth, PDF uploads, per-user reports</li>
+      <li><b>Live:</b> <a href="https://resume-analyzer-red.vercel.app">resume-analyzer-red.vercel.app</a></li>
+    </ul>
+  </div>
+
+  <div style="border:1px solid rgba(128,128,128,.25); border-radius:12px; padding:14px;">
+    <h4 style="margin:0 0 6px 0;">Cloud Compare — Oracle APEX App</h4>
+    <p style="margin:0 0 8px 0;"><i>Oracle APEX • PL/SQL • Relational Design</i></p>
+    <ul>
+      <li>Compare cloud providers by <b>features</b>, <b>pricing</b>, and <b>metrics</b></li>
+      <li>Interactive dashboards + filtering</li>
+    </ul>
+  </div>
+
+  <div style="border:1px solid rgba(128,128,128,.25); border-radius:12px; padding:14px;">
+    <h4 style="margin:0 0 6px 0;">Personal Portfolio</h4>
+    <p style="margin:0 0 8px 0;"><i>HTML • CSS • JavaScript</i></p>
+    <ul>
+      <li>Responsive, mobile-first portfolio with smooth UI and contact form</li>
+    </ul>
+  </div>
+</div>
+
+<hr/>
+
+<h3 style="font-family: ui-sans-serif, -apple-system, 'Segoe UI', Inter, Roboto; font-weight:800;">GitHub Snapshot</h3>
 
 <p align="center">
   <picture>
@@ -79,43 +119,17 @@
   </picture>
 </p>
 
----
+<hr/>
 
-### 🌐 Let’s Connect (adaptive badges)
+<h3 style="font-family: ui-sans-serif, -apple-system, 'Segoe UI', Inter, Roboto; font-weight:800;">Let’s Connect</h3>
 
 <p align="center">
-  <!-- Email -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-    <a href="mailto:mohamedhamdan20.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  </picture>
-
-  <!-- GitHub -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000" />
-    <a href="https://github.com/Hamdan2045"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-  </picture>
-
-  <!-- LinkedIn  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-    <a href="https://www.linkedin.com/in/mohamed-hamdan-2b5116298/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  </picture>
-
-  <!-- Portfolio  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" />
-    <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /></a>
-  </picture>
+  <a href="mailto:mohamedhamdan20.work@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://github.com/Hamdan2045"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-hamdan-2b5116298/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a>
 </p>
 
----
-
-<!-- Footer (adaptive) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
