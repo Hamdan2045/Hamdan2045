@@ -76,7 +76,7 @@
 <div style="display:grid; gap:14px; font-family: ui-sans-serif, -apple-system, 'Segoe UI', Inter, Roboto;">
   <div style="border:1px solid rgba(128,128,128,.25); border-radius:12px; padding:14px;">
     <h4 style="margin:0 0 6px 0;">Resumex — AI Resume Analyzer</h4>
-    <p style="margin:0 0 8px 0;"><i>React • Node/Express • MongoDB • OpenAI API • Auth • Vercel + Render</i></p>
+    <p style="margin:0 0 8px 0;"><i>React • Node/Express • MongoDB • n8n • OpenAI API • Auth • Vercel + Render</i></p>
     <ul>
       <li>Scores resumes against job descriptions and gives <b>actionable feedback</b></li>
       <li>Secure auth, PDF uploads, per-user reports</li>
