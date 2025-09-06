@@ -32,9 +32,10 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,oracle,py,cpp,java,powerbi&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,oracle,py,cpp,java,powerbi&theme=light" />
-    <img alt="Tech icons" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,oracle,py,cpp,java,powerbi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,oracle,py,cpp,java,powerbi&theme=dark" alt="Tech Stack"/>
   </picture>
 </p>
+
 
 ---
 
@@ -42,7 +43,7 @@
 
 💼 **Resumex — AI Resume Analyzer**  
 - Scores resumes against job descriptions with **actionable feedback**  
-- Built using **React, Node/Express, MongoDB, OpenAI API**  
+- Built using **React, Node/Express, MongoDB, OpenAI API, n8n**  
 - Live: [resume-analyzer-red.vercel.app](https://resume-analyzer-red.vercel.app)  
 
 ☁️ **Cloud Compare — Oracle APEX App**  
