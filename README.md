@@ -28,13 +28,8 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,oracle,powerbi&theme=dark&perline=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,oracle,powerbi&theme=light&perline=6" />
-    <img alt="Tech icons" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,oracle,powerbi&theme=dark&perline=6" />
-  </picture>
-</p>
+<table> <tr> <td align="center" width="80">HTML</td> <td align="center" width="80">CSS</td> <td align="center" width="80">JS</td> <td align="center" width="100">React</td> <td align="center" width="100">Node</td> <td align="center" width="110">Express</td> <td align="center" width="110">MongoDB</td> <td align="center" width="110">Oracle APEX</td> <td align="center" width="100">Power BI</td> <td align="center" width="100">Python</td> <td align="center" width="90">C++</td> <td align="center" width="90">Java</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="34"/></td> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/></td> </tr> </table>
+
 
 
 
