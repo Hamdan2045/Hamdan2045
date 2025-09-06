@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mohamedhamdan20.work@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedhamdan20.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email me"/>
+  </a>
   <a href="https://github.com/Hamdan2045"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
   <a href="https://www.linkedin.com/in/mohamed-hamdan-2b5116298/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 </p>
