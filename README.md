@@ -30,11 +30,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,oracle,py,cpp,java,powerbi&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,oracle,py,cpp,java,powerbi&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,oracle,py,cpp,java,powerbi&theme=dark" alt="Tech Stack"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,oracle,powerbi&theme=dark&perline=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,oracle,powerbi&theme=light&perline=6" />
+    <img alt="Tech icons" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,java,oracle,powerbi&theme=dark&perline=6" />
   </picture>
 </p>
+
 
 
 ---
