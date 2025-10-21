@@ -59,7 +59,7 @@
 🌐 **Personal Portfolio**  
 - Responsive, smooth UI with **HTML, CSS, JS**  
 - Integrated **contact form & projects showcase**  
-
+- Live:[portfolio-inky-nine-mftogct27j.vercel.app/](https://portfolio-inky-nine-mftogct27j.vercel.app/)
 ---
 
 ### 📊 GitHub Snapshot  
