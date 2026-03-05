@@ -52,9 +52,10 @@
 - Built using **React, Node/Express, MongoDB, OpenAI API, n8n**  
 - Live: [resume-analyzer-red.vercel.app](https://resume-analyzer-red.vercel.app)  
 
-☁️ **Cloud Compare — Oracle APEX App**  
-- Compare cloud providers by **features, pricing, and metrics**  
-- Interactive dashboards with **PL/SQL backend**  
+☁️ **AQI — Prediction **  
+- Real-time **air quality monitoring** & 7-day ML forecasting for India's 10 major cities  
+- Built with **Python, Flask, XGBoost, Pandas, JavaScript, Chart.js, WAQI API**
+- Live: [aqi-prediction-1-887f.onrender.com/](https://aqi-prediction-1-887f.onrender.com/))
 
 🌐 **Personal Portfolio**  
 - Responsive, smooth UI with **HTML, CSS, JS**  
